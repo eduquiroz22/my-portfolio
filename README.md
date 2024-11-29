@@ -4,7 +4,7 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 
 ## Projects
 
-### 1. **[Analysis of Data from Gaia Test Irradiation on CCDs](link_to_project1)**
+### **[Analysis of Data from Gaia Test Irradiation on CCDs](link_to_project1)**
 
 **Objective**:  
 This project involved performing astrometric and photometric analysis of test data (CCN10) provided by the European Space Agency (ESA). The data was gathered as part of the radiation test campaigns for the Gaia mission, which aims to map the stars of our galaxy. The goal was to analyze the impact of radiation on Gaia's CCD sensors in preparation for the mission.
@@ -21,7 +21,7 @@ This project involved performing astrometric and photometric analysis of test da
 
 ---
 
-### 2. **[X-Ray Generation Simulation from Electron Irradiation on Tungsten](link_to_project2)**
+### **[X-Ray Generation Simulation from Electron Irradiation on Tungsten](link_to_project2)**
 
 **Objective**:  
 The goal of this project was to simulate the generation of X-rays caused by electron irradiation in a tungsten sample. Using the GEANT4 simulation framework (developed by CERN), I modeled the interaction of high-energy electrons with tungsten and analyzed the resulting X-ray spectrum using ROOT.
@@ -38,7 +38,7 @@ The goal of this project was to simulate the generation of X-rays caused by elec
 
 ---
 
-### 3. **[Climate Simulation Model with RegCM](link_to_project3)**
+### **[Climate Simulation Model with RegCM](link_to_project3)**
 
 **Objective**:  
 This project involved running climate simulations for Bolivia using the Regional Climate Model (RegCM), with the aim of achieving higher resolution projections through downscaling. The goal was to simulate climate patterns with a focus on Cochabamba, using data from the EIN15 global climate model.
@@ -55,7 +55,7 @@ This project involved running climate simulations for Bolivia using the Regional
 
 ---
 
-### 4. **[Study of Star Clusters in Cochabamba’s Sky](link_to_project4)**
+### **[Study of Star Clusters in Cochabamba’s Sky](link_to_project4)**
 
 **Objective**:  
 This project focused on the astrometric and photometric analysis of open and globular star clusters visible from Cochabamba, Bolivia. The goal was to provide amateur astronomers and enthusiasts with information on the star clusters that can be observed in the region's night sky.
@@ -72,7 +72,7 @@ This project focused on the astrometric and photometric analysis of open and glo
 
 ---
 
-### 5. **[Analysis of Particle Detection Data from UMSA](link_to_project5)**
+### **[Analysis of Particle Detection Data from UMSA](link_to_project5)**
 
 **Objective**:  
 This project involved analyzing particle detection data collected at the Universidad Mayor de San Simón (UMSA) in La Paz, Bolivia. The data was obtained from scintillators and Cherenkov detectors used to study particle interactions.
@@ -89,7 +89,7 @@ This project involved analyzing particle detection data collected at the Univers
 
 ---
 
-### 6. **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs](link_to_project6)**
+### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs](link_to_project6)**
 
 **Objective**:  
 To identify stars that emit in radio frequencies, I developed an efficient algorithm to search for matches between star catalogs (such as Gaia) and radio source catalogs. This involved optimizing the calculation of angular separation and using a binary search approach to speed up the matching process.
@@ -106,7 +106,7 @@ To identify stars that emit in radio frequencies, I developed an efficient algor
 
 ---
 
-### 7. **[False Positive Estimation for Crossmatch Between Catalogs](link_to_project7)**
+### **[False Positive Estimation for Crossmatch Between Catalogs](link_to_project7)**
 
 **Objective**:  
 This project aimed to estimate the rate of false positives in the crossmatch between star and radio source catalogs. Using randomized positions within the observation area, I simulated random matches and calculated the probability of false positives.
@@ -123,7 +123,7 @@ This project aimed to estimate the rate of false positives in the crossmatch bet
 
 ---
 
-### 8. **[Search for Radio Stars by Adjusting Star Positions to Observation Epochs](link_to_project8)**
+### **[Search for Radio Stars by Adjusting Star Positions to Observation Epochs](link_to_project8)**
 
 **Objective**:  
 In this project, I developed a method to search for radio stars without relying on a catalog of radio sources. Instead, I adjusted star positions to the exact observation epochs and analyzed the resulting data to identify stars that might emit in radio frequencies.
@@ -140,7 +140,7 @@ In this project, I developed a method to search for radio stars without relying 
 
 ---
 
-### 9. **[Simulation of False Positives for Image-Based Method](link_to_project9)**
+### **[Simulation of False Positives for Image-Based Method](link_to_project9)**
 
 **Objective**:  
 To estimate false positives in an image-based search method for radio stars, I simulated the movement of stars within the observation area and randomized their positions to generate false matches.
@@ -157,7 +157,7 @@ To estimate false positives in an image-based search method for radio stars, I s
 
 ---
 
-### 10. **[Generation of Radio Observation Images](link_to_project10)**
+### **[Generation of Radio Observation Images](link_to_project10)**
 
 **Objective**:  
 This project involved generating images of radio observations that included the original positions of stars (from Gaia DR3) and their trajectories over time. The goal was to identify proper motion in radio sources, which could indicate the presence of radio-emitting stars.
@@ -174,7 +174,7 @@ This project involved generating images of radio observations that included the 
 
 ---
 
-### 11. **[Analysis of Temporal Variability (IVT) in Radio Sources](link_to_project11)**
+### **[Analysis of Temporal Variability (IVT) in Radio Sources](link_to_project11)**
 
 **Objective**:  
 In this project, I analyzed the temporal variability in radio sources using a custom metric called the **Index of Temporal Variability (IVT)**. This analysis helped to distinguish between regular radio stars and extragalactic sources.
@@ -184,4 +184,11 @@ In this project, I analyzed the temporal variability in radio sources using a cu
 - Applied IVT to both confirmed radio stars and extragalactic radio sources, revealing significant differences.
 - Used the IVT metric to identify two new radio stars based on their variability patterns.
 
-**Tools Used**:
+**Tools Used**:  
+- Python, Numpy, Matplotlib
+
+[More details here](project11.md)
+
+---
+
+Feel free to update the links with your actual project pages. This structure gives a good balance of detail without overloading the reader, and it makes it easy for them to dive deeper into specific projects if they wish.
