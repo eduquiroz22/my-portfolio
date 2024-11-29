@@ -43,19 +43,6 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
-### **[Analysis of Temporal Variability (IVT) in Radio Sources](link_to_project11)**  
-
-- **Objective**:  
-  Analyze the temporal variability of radio sources using a custom variability index (IVT) to distinguish between radio stars and extragalactic radio sources.
-
-- **Achievements**:  
-  Developed the IVT index, which successfully identified a significant difference in variability between radio stars and extragalactic sources. This led to the confirmation of two new radio stars based on variability characteristics.
-
-- **Tools Used**:  
-  Python, custom index (IVT), data analysis techniques.
-
----
-
 ### **[Simulation of False Positives for Image-Based Method](link_to_project9)**  
 
 - **Objective**:  
@@ -79,6 +66,19 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 - **Tools Used**:  
   Python, Kapteyn package, Astropy, data visualization techniques.
+
+---
+
+### **[Analysis of Temporal Variability (IVT) in Radio Sources](link_to_project11)**  
+
+- **Objective**:  
+  Analyze the temporal variability of radio sources using a custom variability index (IVT) to distinguish between radio stars and extragalactic radio sources.
+
+- **Achievements**:  
+  Developed the IVT index, which successfully identified a significant difference in variability between radio stars and extragalactic sources. This led to the confirmation of two new radio stars based on variability characteristics.
+
+- **Tools Used**:  
+  Python, custom index (IVT), data analysis techniques.
 
 ---
 
