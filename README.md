@@ -1,6 +1,6 @@
 # My Portfolio
 
-Hello! I’m [Your Name], a [Your Major] student at [Your University]. Here are some of the projects I've worked on during my studies:
+Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Simón" from Cochabamba, Bolivia. Here are some of the projects I've worked on during my studies:
 
 ## Projects
 
