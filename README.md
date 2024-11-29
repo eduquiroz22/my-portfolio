@@ -4,7 +4,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ## Projects
 
-- **[Project 1: Data Analysis](link_to_project1)**: A brief description of what you did in this project.
+- **[Project 1: Data Analysis](Cota-Cota)**: A brief description of what you did in this project.
 - **[Project 2: Social Simulation](link_to_project2)**: A brief description of this project.
 - **[Project 3: Visualization](link_to_project3)**: A brief description of the results and methods used.
 
