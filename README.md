@@ -15,7 +15,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 - **Tools Used**:  
   Python, Pandas, NumPy, multiprocessing package, custom binary search implementation.
 
-For a detailed description of the work and methodology, please refer to the [documentation here](https://github.com/yourusername/crossmatching_algorithm/docs).
+For a detailed description of the work and methodology, please refer to the [documentation here](https://drive.google.com/file/d/1-OngqpRTozFUxsD3A8Z5mg3TsVMJS712/view?usp=sharing).
 
 ---
 
