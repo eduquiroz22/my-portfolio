@@ -39,20 +39,20 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Performed simulations using random positions of stars to generate over 1.5 million observations and estimate the probability of false positives for our crossmatch algorithm.
 
 - **Tools Used**:  
-  Python, NumPy, Web scraping for data collection, statistical analysis.
+  Python, Pandas, NumPy, multiprocessing package, custom binary search implementation.
 
 ---
 
 ### **[Simulation of False Positives for Image-Based Method](link_to_project9)**  
 
 - **Objective**:  
-  Simulate false positives in image-based observations to refine our methodology for identifying radio-emitting stars using randomized star positions within observation areas.
+  Simulate the likelihood of false positives in an image-based search method by randomizing star positions within irregular observation areas.
 
 - **Achievements**:  
-  Improved the false positive estimation method by generating simulated observations and identifying potential false positives, contributing to a more reliable detection method.
+  Performed simulations with randomized star positions to generate over 1.5 million observations and identifying potential false positives. This contributed to a more reliable and robust detection method for radio-emitting stars in image-based searches.
 
 - **Tools Used**:  
-  Python, Astropy, Web scraping, simulation techniques.
+  Python, Pandas, Numpy, Web scraping.
 
 ---
 
