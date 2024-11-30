@@ -19,7 +19,7 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 ---
 
-### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs (Part of Thesis Work)](link_to_project8)**    
+### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs (Part of Thesis Work)](https://github.com/eduquiroz22/search_radio_stars_using_images)**    
 
 - **Objective**:  
   Develop a method for identifying radio-emitting stars by adjusting star positions to the precise observation epochs. This method, called the **"Image Method"**, generates observational data for each star based on its position at a given epoch, without relying on an existing catalog of radio sources.
@@ -35,7 +35,7 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 ---
 
-### **[False Positive Estimation for Crossmatch Between Catalogs Using HPC (Part of Thesis Work)](link_to_project7)**  
+### **[False Positive Estimation for Crossmatch Between Catalogs Using HPC (Part of Thesis Work)](https://github.com/eduquiroz22/simulation_method_catalogs)**  
 
 - **Objective**:  
   Estimate the number of false positives in the crossmatching process by simulating random star and radio source positions for different distance ranges. The simulation was done progressively for distances from 10 to 250 pc, generating synthetic catalogs of stars and radio sources with random positions, and leveraging High-Performance Computing (HPC) for efficient processing.
@@ -45,6 +45,8 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 - **Tools Used**:  
   Python, Pandas, NumPy, Astropy, High-Performance Computing (HPC), multiprocessing package, custom binary search implementation.
+  
+For a detailed description of the work and methodology, please refer to the [documentation here](https://drive.google.com/file/d/17RDFwJezf33d-4lM3-IKvSbjLMT-K5Kn/view?usp=sharing).
 
 ---
 
