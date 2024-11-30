@@ -29,6 +29,9 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 - **Tools Used**:  
   Python, Pandas, Numpy, PyAstrometry (for adjusting star positions), Astropy, Web Scraping techniques (Selenium and WebDrive) for gathering observational data.
+  
+For a detailed description of the work and methodology, please refer to the [documentation here](https://drive.google.com/file/d/1hHid_4rCvBlYHPT8f4aXWMlTASEUOMN0/view?usp=sharing).
+
 
 ---
 
