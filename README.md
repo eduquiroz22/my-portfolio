@@ -13,7 +13,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Successfully developed an optimized algorithm for fast and accurate crossmatching between star catalogs and radio source databases, significantly improving the efficiency of the matching process. Additionally, the process was parallelized to utilize multiple processors, further enhancing performance and reducing computation time.
 
 - **Tools Used**:  
-  Python, NumPy, multiprocessing package, custom binary search implementation.
+  Python, Pandas, NumPy, multiprocessing package, custom binary search implementation.
 
 ---
 
@@ -23,10 +23,10 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Develop a method for identifying radio-emitting stars by adjusting star positions to the precise observation epochs. This method, called the **"Image Method"**, generates observational data for each star based on its position at a given epoch, without relying on an existing catalog of radio sources.
 
 - **Achievements**:  
-  Created the **"Image Method"**, which simulates star observations by adjusting their positions to the exact observation epochs. This method allows the identification of radio-emitting stars without the need for a pre-existing radio source catalog, significantly broadening the scope of the search.
+  Created the **"Image Method"**, which goes beyond traditional crossmatch catalog searches by enabling the identification of radio-emitting stars whose sources do not meet the criteria to be cataloged. This method significantly broadens the scope of the search, allowing for the discovery of stars that would otherwise be missed.
 
 - **Tools Used**:  
-  Python, Astropy, Web scraping techniques for gathering observational data.
+  Python, Pandas, Numpy, PyAstrometry (for adjusting star positions), Web Scraping techniques (Selenium and WebDrive) for gathering observational data.
 
 ---
 
