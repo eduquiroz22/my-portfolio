@@ -4,7 +4,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ## Projects
 
-### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs (Part of Thesis Work)](link_to_project6)**  
+### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs (Part of Thesis Work)](https://github.com/eduquiroz22/crossmatching_algorithm)**  
 
 - **Objective**:  
   Develop an efficient algorithm to crossmatch star and radio source catalogs by optimizing the angular separation calculation and implementing a binary search approach to enhance performance.
