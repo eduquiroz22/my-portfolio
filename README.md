@@ -79,7 +79,7 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 ---
 
-### **[Analysis of Temporal Variability (TVI) in Radio Sources (Part of Thesis Work)](https://github.com/eduquiroz22/temporal_variability_index)**  
+### **[Analysis of Temporal Variability Index (TVI) in Radio Sources (Part of Thesis Work)](https://github.com/eduquiroz22/temporal_variability_index)**  
 
 - **Objective**:  
   Analyze the temporal variability of radio sources using a custom metric called the **"Temporal Variability Index (TVI)"**. This analysis helped to distinguish between radio stars and extragalactic sources.
