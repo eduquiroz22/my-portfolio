@@ -28,7 +28,7 @@ For a detailed description of the work and methodology, please refer to the [doc
   Created the **"Image Method"**, which goes beyond traditional crossmatch catalog searches by enabling the identification of radio-emitting stars whose sources do not meet the criteria to be cataloged. This method significantly broadens the scope of the search, allowing for the discovery of stars that would otherwise be missed.
 
 - **Tools Used**:  
-  Python, Pandas, Numpy, PyAstrometry (for adjusting star positions), Astropy, Web Scraping techniques (Selenium and WebDrive) for gathering observational data.
+  Python, Pandas, Numpy, PyAstrometry (for adjusting star positions made by Laurent Loinard), Astropy, Web Scraping techniques (Selenium and WebDrive) for gathering observational data.
   
 For a detailed description of the work and methodology, please refer to the [documentation here](https://drive.google.com/file/d/1hHid_4rCvBlYHPT8f4aXWMlTASEUOMN0/view?usp=sharing).
 
