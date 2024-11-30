@@ -147,7 +147,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   
 - **Results**:  
   A sample of the first 100 signals from each set can be found in the following link:  
-  [Sample Results (first 100 signals from each set)](https://eduquiroz22.github.io/Cota-Cota/).  
+  [Cota Cota Analysis](https://eduquiroz22.github.io/Cota-Cota/).  
   This document showcases the structured data and some of the visualizations produced from the analysis. Due to file upload limits, only the first 100 signals from each set are available for viewing.
 
 ---
