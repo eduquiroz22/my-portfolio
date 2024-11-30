@@ -10,7 +10,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Develop an efficient algorithm to crossmatch star and radio source catalogs by optimizing the angular separation calculation and implementing a binary search approach to enhance performance.
 
 - **Achievements**:  
-  Successfully developed an optimized algorithm for fast and accurate crossmatching between star catalogs and radio source databases, significantly improving the efficiency of the matching process.
+  Successfully developed an optimized algorithm for fast and accurate crossmatching between star catalogs and radio source databases, significantly improving the efficiency of the matching process. Additionally, the process was parallelized to utilize multiple processors, further enhancing performance and reducing computation time.
 
 - **Tools Used**:  
   Python, NumPy, SciPy, Astropy, custom binary search implementation.
