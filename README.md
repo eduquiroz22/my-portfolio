@@ -15,6 +15,8 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 - **Tools Used**:  
   Python, Pandas, NumPy, multiprocessing package, custom binary search implementation.
 
+For a detailed description of the work and methodology, please refer to the [documentation here](https://github.com/yourusername/crossmatching_algorithm/docs).
+
 ---
 
 ### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs (Part of Thesis Work)](link_to_project8)**    
