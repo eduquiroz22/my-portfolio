@@ -137,7 +137,7 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 ### **[Analysis of Particle Detection Data from UMSA](https://eduquiroz22.github.io/Cota-Cota/)**  
 
 - **Objective**:  
-  Analyze particle detection data provided by UMSA ("Universidad Mayor de San Andŕés" from La Paz, Bolivia), which involved working with large datasets from scintillators and Cherenkov detectors.
+  Analyze particle detection data provided by UMSA ("Universidad Mayor de San Andrés" from La Paz, Bolivia), which involved working with large datasets from scintillators and Cherenkov detectors.
 
 - **Achievements**:  
   Developed algorithms to structure large volumes of data and detect peaks in signals. Applied the Skewed Voigt model for peak fitting, which facilitated accurate analysis of particle detection events.
