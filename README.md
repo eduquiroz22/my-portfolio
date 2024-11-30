@@ -121,7 +121,7 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 
 ---
 
-### **[Study of Star Clusters in Cochabamba’s Sky](link_to_project4)**  
+### **[Study of Star Clusters in Cochabamba’s Sky](https://drive.google.com/file/d/1CxozYqH5NObI-HO-1z8NpG70-v3FORoH/view?usp=sharing)**  
 
 - **Objective**:  
   Conduct an astrometric and photometric study of star clusters visible in the sky of Cochabamba, using Gaia data to explore open and globular clusters.
