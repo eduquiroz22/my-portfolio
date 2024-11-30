@@ -50,7 +50,7 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 ---
 
-### **[Simulation of False Positives for Image-Based Method (Part of Thesis Work)](link_to_project9)**  
+### **[Simulation of False Positives for Image-Based Method (Part of Thesis Work)](https://github.com/eduquiroz22/simulation_images_method)**  
 
 - **Objective**:  
   Simulate the likelihood of false positives in an image-based search method by randomizing star positions within irregular observation areas.
@@ -60,6 +60,9 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 - **Tools Used**:  
   Python, Pandas, Numpy, Web scraping.
+
+For a detailed description of the work and methodology, please refer to the [here](https://drive.google.com/file/d/17RDFwJezf33d-4lM3-IKvSbjLMT-K5Kn/view?usp=sharing).
+
 
 ---
 
