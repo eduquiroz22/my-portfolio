@@ -13,20 +13,20 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
   Successfully developed an optimized algorithm for fast and accurate crossmatching between star catalogs and radio source databases, significantly improving the efficiency of the matching process. Additionally, the process was parallelized to utilize multiple processors, further enhancing performance and reducing computation time.
 
 - **Tools Used**:  
-  Python, NumPy, SciPy, Astropy, custom binary search implementation.
+  Python, NumPy, multiprocessing package, custom binary search implementation.
 
 ---
 
-### **[Search for Radio Stars by Adjusting Star Positions to Observation Epochs](link_to_project8)**  
+### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs](link_to_project8)**    
 
 - **Objective**:  
-  Identify radio-emitting stars by adjusting the star positions to the precise observation epochs, generating observational data without depending on an existing catalog of radio sources.
+  Develop a method for identifying radio-emitting stars by adjusting star positions to the precise observation epochs. This method, called the **"Método de Imágenes"**, generates observational data for each star based on its position at a given epoch, without relying on an existing catalog of radio sources.
 
 - **Achievements**:  
-  Created a method to simulate star observations for various epochs and identified stars potentially emitting in radio frequencies, without relying on external radio catalogs.
+  Created the **"Image Method"**, which simulates star observations by adjusting their positions to the exact observation epochs. This method allows the identification of radio-emitting stars without the need for a pre-existing radio source catalog, significantly broadening the scope of the search.
 
 - **Tools Used**:  
-  Python, Astropy, Web scraping techniques for gathering observation data.
+  Python, Astropy, Web scraping techniques for gathering observational data.
 
 ---
 
