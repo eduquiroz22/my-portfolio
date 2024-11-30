@@ -78,7 +78,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Developed the **TVI**, which successfully identified a significant difference in variability between radio stars and extragalactic sources. This led to the confirmation of two new radio stars based on variability characteristics.
 
 - **Tools Used**:  
-  Python, Pandas, Gaia, SDSS SkyServer, Legacy survey, DESI survey, Statistical insight.
+  Python, Pandas, Gaia, SDSS SkyServer, Legacy survey, DESI survey, Statistical insight, CASA (for Gaussian fitting of sources using automated scripts).
 
 ---
 
