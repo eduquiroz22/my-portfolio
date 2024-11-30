@@ -4,7 +4,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ## Projects
 
-### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs](link_to_project6)**  
+### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs (Part of Thesis Work)](link_to_project6)**  
 
 - **Objective**:  
   Develop an efficient algorithm to crossmatch star and radio source catalogs by optimizing the angular separation calculation and implementing a binary search approach to enhance performance.
@@ -17,7 +17,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
-### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs](link_to_project8)**    
+### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs (Part of Thesis Work)](link_to_project8)**    
 
 - **Objective**:  
   Develop a method for identifying radio-emitting stars by adjusting star positions to the precise observation epochs. This method, called the **"Image Method"**, generates observational data for each star based on its position at a given epoch, without relying on an existing catalog of radio sources.
@@ -30,7 +30,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
-### **[False Positive Estimation for Crossmatch Between Catalogs Using HPC](link_to_project7)**  
+### **[False Positive Estimation for Crossmatch Between Catalogs Using HPC (Part of Thesis Work)](link_to_project7)**  
 
 - **Objective**:  
   Estimate the number of false positives in the crossmatching process by simulating random star and radio source positions for different distance ranges. The simulation was done progressively for distances from 10 to 250 pc, generating synthetic catalogs of stars and radio sources with random positions, and leveraging High-Performance Computing (HPC) for efficient processing.
@@ -43,7 +43,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
-### **[Simulation of False Positives for Image-Based Method](link_to_project9)**  
+### **[Simulation of False Positives for Image-Based Method (Part of Thesis Work)](link_to_project9)**  
 
 - **Objective**:  
   Simulate the likelihood of false positives in an image-based search method by randomizing star positions within irregular observation areas.
@@ -56,7 +56,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
-### **[Generation of Radio Observation Images](link_to_project10)**  
+### **[Generation of Radio Observation Images (Part of Thesis Work)](link_to_project10)**  
 
 - **Objective**:  
   Generate images of radio observations showing star positions and their trajectories, in order to analyze proper motions visible in radio frequency observations.
@@ -69,7 +69,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
-### **[Analysis of Temporal Variability (TVI) in Radio Sources](link_to_project11)**  
+### **[Analysis of Temporal Variability (TVI) in Radio Sources (Part of Thesis Work)](link_to_project11)**  
 
 - **Objective**:  
   Analyze the temporal variability of radio sources using a custom metric called the **"Temporal Variability Index (TVI)"**. This analysis helped to distinguish between radio stars and extragalactic sources.
