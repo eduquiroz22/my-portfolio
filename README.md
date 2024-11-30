@@ -66,7 +66,7 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 ---
 
-### **[Generation of Radio Observation Images (Part of Thesis Work)](link_to_project10)**  
+### **[Generation of Radio Observation Images (Part of Thesis Work)](https://github.com/eduquiroz22/gen_observation_radio_images)**  
 
 - **Objective**:  
   Generate images of radio observations showing star positions and their trajectories, in order to analyze proper motions visible in radio frequency observations.
