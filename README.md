@@ -61,7 +61,7 @@ For a detailed description of the work and methodology, please refer to the [doc
 - **Tools Used**:  
   Python, Pandas, Numpy, Web scraping.
 
-For a detailed description of the work and methodology, please refer to the [here](https://drive.google.com/file/d/1ZBf8rpt7E_zgrULgnjOXPIV9ho6RutmN/view?usp=sharing).
+For a detailed description of the work and methodology, please refer to the [documentation here](https://drive.google.com/file/d/1ZBf8rpt7E_zgrULgnjOXPIV9ho6RutmN/view?usp=sharing).
 
 
 ---
