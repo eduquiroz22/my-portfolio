@@ -26,20 +26,20 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Created the **"Image Method"**, which goes beyond traditional crossmatch catalog searches by enabling the identification of radio-emitting stars whose sources do not meet the criteria to be cataloged. This method significantly broadens the scope of the search, allowing for the discovery of stars that would otherwise be missed.
 
 - **Tools Used**:  
-  Python, Pandas, Numpy, PyAstrometry (for adjusting star positions), Web Scraping techniques (Selenium and WebDrive) for gathering observational data.
+  Python, Pandas, Numpy, PyAstrometry (for adjusting star positions), Astropy, Web Scraping techniques (Selenium and WebDrive) for gathering observational data.
 
 ---
 
-### **[False Positive Estimation for Crossmatch Between Catalogs](link_to_project7)**  
+### **[False Positive Estimation for Crossmatch Between Catalogs Using HPC](link_to_project7)**  
 
 - **Objective**:  
-  Estimate the likelihood of false positives in the crossmatching process by simulating random star positions within irregular observation areas.
+  Estimate the number of false positives in the crossmatching process by simulating random star and radio source positions for different distance ranges. The simulation was done progressively for distances from 10 to 250 pc, generating synthetic catalogs of stars and radio sources with random positions, and leveraging High-Performance Computing (HPC) for efficient processing.
 
 - **Achievements**:  
-  Performed simulations using random positions of stars to generate over 1.5 million observations and estimate the probability of false positives for our crossmatch algorithm.
+  Conducted 1000 simulations for each distance considered, using HPC to process large-scale simulations efficiently. This approach enabled the generation of millions of synthetic observations, improving the estimation of the number of false positives and evaluating the crossmatching algorithm for large datasets.
 
 - **Tools Used**:  
-  Python, Pandas, NumPy, multiprocessing package, custom binary search implementation.
+  Python, Pandas, NumPy, Astropy, High-Performance Computing (HPC), multiprocessing package, custom binary search implementation.
 
 ---
 
@@ -65,20 +65,20 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Created radio observation images using Pythonâ€™s Kapteyn package, which enabled the visualization of proper motions for stars and radio sources, providing valuable insights into their movement across the sky.
 
 - **Tools Used**:  
-  Python, Kapteyn package, Astropy, data visualization techniques.
+  Python, Pandas, Numpy, PyAstrometry, Kapteyn package, Astropy, data visualization techniques.
 
 ---
 
-### **[Analysis of Temporal Variability (IVT) in Radio Sources](link_to_project11)**  
+### **[Analysis of Temporal Variability (TVI) in Radio Sources](link_to_project11)**  
 
 - **Objective**:  
-  Analyze the temporal variability of radio sources using a custom variability index (IVT) to distinguish between radio stars and extragalactic radio sources.
+  Analyze the temporal variability of radio sources using a custom metric called the **"Temporal Variability Index (TVI)"**. This analysis helped to distinguish between radio stars and extragalactic sources.
 
 - **Achievements**:  
-  Developed the IVT index, which successfully identified a significant difference in variability between radio stars and extragalactic sources. This led to the confirmation of two new radio stars based on variability characteristics.
+  Developed the **TVI**, which successfully identified a significant difference in variability between radio stars and extragalactic sources. This led to the confirmation of two new radio stars based on variability characteristics.
 
 - **Tools Used**:  
-  Python, custom index (IVT), data analysis techniques.
+  Python, Numpy, Matplotlib.
 
 ---
 
