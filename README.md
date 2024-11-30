@@ -78,7 +78,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Developed the **TVI**, which successfully identified a significant difference in variability between radio stars and extragalactic sources. This led to the confirmation of two new radio stars based on variability characteristics.
 
 - **Tools Used**:  
-  Python, Numpy, Matplotlib.
+  Python, Pandas, Gaia, SDSS SkyServer, Legacy survey, DESI survey, Statistical insight.
 
 ---
 
@@ -104,7 +104,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Performed data analysis on the CCN10 test provided by the ESA, contributing to the validation of Gaia's sensor performance through astrometric and photometric testing.
 
 - **Tools Used**:  
-  Python, Astropy, TOPCAT, data analysis techniques.
+  Python, Pandas, Numpy, LMFIT package, data analysis techniques.
 
 ---
 
@@ -117,7 +117,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Developed custom GrADS scripts to automate the analysis and visualization of climate simulation results, improving the workflow for handling large datasets from RegCM simulations.
 
 - **Tools Used**:  
-  RegCM, GrADS, Python, data visualization tools.
+  RegCM, GrADS, R, data visualization tools.
 
 ---
 
@@ -143,7 +143,7 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
   Developed algorithms to structure large volumes of data and detect peaks in signals. Applied the Skewed Voigt model for peak fitting, which facilitated accurate analysis of particle detection events.
 
 - **Tools Used**:  
-  Python, lmfit, data analysis techniques.
+  Python, LMFIT, multiprocessing package, data analysis techniques.
 
 ---
 
