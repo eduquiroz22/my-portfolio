@@ -20,7 +20,7 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 ### **[Search for Radio Stars Using the "Image Method" by Adjusting Star Positions to Observation Epochs](link_to_project8)**    
 
 - **Objective**:  
-  Develop a method for identifying radio-emitting stars by adjusting star positions to the precise observation epochs. This method, called the **"Método de Imágenes"**, generates observational data for each star based on its position at a given epoch, without relying on an existing catalog of radio sources.
+  Develop a method for identifying radio-emitting stars by adjusting star positions to the precise observation epochs. This method, called the **"Image Method"**, generates observational data for each star based on its position at a given epoch, without relying on an existing catalog of radio sources.
 
 - **Achievements**:  
   Created the **"Image Method"**, which simulates star observations by adjusting their positions to the exact observation epochs. This method allows the identification of radio-emitting stars without the need for a pre-existing radio source catalog, significantly broadening the scope of the search.
