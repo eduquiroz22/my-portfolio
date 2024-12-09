@@ -4,6 +4,24 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 
 ## Projects
 
+### **[Analysis of Particle Detection Data from UMSA](https://drive.google.com/file/d/1NIEeTrc9Gf192jm7z399cdxxGTFpp8Hl/view?usp=sharing)**  
+
+- **Objective**:  
+  Analyze particle detection data provided by UMSA ("Universidad Mayor de San Andrés" from La Paz, Bolivia), which involved working with large datasets from scintillators and Cherenkov detectors.
+
+- **Achievements**:  
+  Developed algorithms to structure large volumes of data and detect peaks in signals. Applied the Skewed Voigt model for peak fitting, which facilitated accurate analysis of particle detection events.
+
+- **Tools Used**:  
+  Python, LMFIT, multiprocessing package, data analysis techniques.
+  
+- **Results**:  
+  A sample of the first 100 signals from each set can be found in the following link:  
+  [Cota Cota Analysis](https://eduquiroz22.github.io/Cota-Cota/).  
+  This document showcases the structured data and some of the visualizations produced from the analysis. Due to file upload limits, only the first 100 signals from each set are available for viewing.
+
+---
+
 ### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs (Part of Thesis Work)](https://github.com/eduquiroz22/crossmatching_algorithm)**  
 
 - **Objective**:  
@@ -142,23 +160,6 @@ For a detailed description of the work and methodology, please refer to the [doc
 - **Tools Used**:  
   TOPCAT, Astropy, Gaia DR3, 2MASS.
 
----
-
-### **[Analysis of Particle Detection Data from UMSA](https://drive.google.com/file/d/1NIEeTrc9Gf192jm7z399cdxxGTFpp8Hl/view?usp=sharing)**  
-
-- **Objective**:  
-  Analyze particle detection data provided by UMSA ("Universidad Mayor de San Andrés" from La Paz, Bolivia), which involved working with large datasets from scintillators and Cherenkov detectors.
-
-- **Achievements**:  
-  Developed algorithms to structure large volumes of data and detect peaks in signals. Applied the Skewed Voigt model for peak fitting, which facilitated accurate analysis of particle detection events.
-
-- **Tools Used**:  
-  Python, LMFIT, multiprocessing package, data analysis techniques.
-  
-- **Results**:  
-  A sample of the first 100 signals from each set can be found in the following link:  
-  [Cota Cota Analysis](https://eduquiroz22.github.io/Cota-Cota/).  
-  This document showcases the structured data and some of the visualizations produced from the analysis. Due to file upload limits, only the first 100 signals from each set are available for viewing.
 
 ---
 
