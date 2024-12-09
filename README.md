@@ -4,6 +4,19 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 
 ## Projects
 
+### **[Analysis of Data from Gaia Test Irradiation on CCDs (First Data Analysis Project)](https://drive.google.com/file/d/190OmD3ItyQDtJ395TAA0YSEOcr51YPDT/view?usp=sharing)**  
+
+- **Objective**:  
+  Analyze astrometric and photometric data from the Gaia mission’s test irradiation on CCDs, to assess the mission’s performance before its actual launch.
+
+- **Achievements**:  
+  Performed data analysis on the CCN10 test provided by the ESA, contributing to the validation of Gaia's sensor performance through astrometric and photometric testing.
+
+- **Tools Used**:  
+  Python, Pandas, Numpy, LMFIT package, data analysis techniques.
+
+---
+
 ### **[Analysis of Particle Detection Data from UMSA](https://drive.google.com/file/d/1NIEeTrc9Gf192jm7z399cdxxGTFpp8Hl/view?usp=sharing)**  
 
 - **Objective**:  
@@ -19,20 +32,6 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
   A sample of the first 100 signals from each set can be found in the following link:  
   [Cota Cota Analysis](https://eduquiroz22.github.io/Cota-Cota/).  
   This document showcases the structured data and some of the visualizations produced from the analysis. Due to file upload limits, only the first 100 signals from each set are available for viewing.
-
----
-
-
-### **[Analysis of Data from Gaia Test Irradiation on CCDs (First Data Analysis Project)](https://drive.google.com/file/d/190OmD3ItyQDtJ395TAA0YSEOcr51YPDT/view?usp=sharing)**  
-
-- **Objective**:  
-  Analyze astrometric and photometric data from the Gaia mission’s test irradiation on CCDs, to assess the mission’s performance before its actual launch.
-
-- **Achievements**:  
-  Performed data analysis on the CCN10 test provided by the ESA, contributing to the validation of Gaia's sensor performance through astrometric and photometric testing.
-
-- **Tools Used**:  
-  Python, Pandas, Numpy, LMFIT package, data analysis techniques.
 
 ---
 
