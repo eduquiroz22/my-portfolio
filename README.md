@@ -22,6 +22,20 @@ Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Sim�
 
 ---
 
+
+### **[Analysis of Data from Gaia Test Irradiation on CCDs (First Data Analysis Project)](https://drive.google.com/file/d/190OmD3ItyQDtJ395TAA0YSEOcr51YPDT/view?usp=sharing)**  
+
+- **Objective**:  
+  Analyze astrometric and photometric data from the Gaia mission’s test irradiation on CCDs, to assess the mission’s performance before its actual launch.
+
+- **Achievements**:  
+  Performed data analysis on the CCN10 test provided by the ESA, contributing to the validation of Gaia's sensor performance through astrometric and photometric testing.
+
+- **Tools Used**:  
+  Python, Pandas, Numpy, LMFIT package, data analysis techniques.
+
+---
+
 ### **[Development of a Crossmatch Algorithm for Star and Radio Source Catalogs (Part of Thesis Work)](https://github.com/eduquiroz22/crossmatching_algorithm)**  
 
 - **Objective**:  
@@ -120,19 +134,6 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 - **Tools Used**:  
   GEANT4, ROOT, C++.
-
----
-
-### **[Analysis of Data from Gaia Test Irradiation on CCDs (First Data Analysis Project)](https://drive.google.com/file/d/190OmD3ItyQDtJ395TAA0YSEOcr51YPDT/view?usp=sharing)**  
-
-- **Objective**:  
-  Analyze astrometric and photometric data from the Gaia mission’s test irradiation on CCDs, to assess the mission’s performance before its actual launch.
-
-- **Achievements**:  
-  Performed data analysis on the CCN10 test provided by the ESA, contributing to the validation of Gaia's sensor performance through astrometric and photometric testing.
-
-- **Tools Used**:  
-  Python, Pandas, Numpy, LMFIT package, data analysis techniques.
 
 ---
 
