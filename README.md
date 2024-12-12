@@ -17,6 +17,19 @@ Hello! Iâ€™m Eduardo Quiroz, a physics student at "Universidad Mayor de San SimÃ
 
 ---
 
+### **[X-Ray Generation Simulation from Electron Irradiation on Tungsten](https://drive.google.com/file/d/1nEiFpYSwptF2RWQgoYWAkO6UT2t87ZfX/view?usp=sharing)**  
+
+- **Objective**:  
+  Simulate the X-ray spectrum generated when a tungsten sample is irradiated with electrons, in order to analyze the characteristics of the X-rays produced.
+
+- **Achievements**:  
+  Successfully used GEANT4 to simulate electron irradiation and observed the X-ray spectrum. Results were analyzed using ROOT, providing insights into X-ray production in a tungsten sample.
+
+- **Tools Used**:  
+  GEANT4, ROOT, C++.
+
+---
+
 ### **[Analysis of Particle Detection Data from UMSA](https://drive.google.com/file/d/1NIEeTrc9Gf192jm7z399cdxxGTFpp8Hl/view?usp=sharing)**  
 
 - **Objective**:  
@@ -119,19 +132,6 @@ For a detailed description of the work and methodology, please refer to the [doc
 
 - **Tools Used**:  
   Python, Pandas, Gaia, SDSS SkyServer, Legacy survey, DESI survey, Statistical insight, CASA (for Gaussian fitting of sources using automated scripts).
-
----
-
-### **[X-Ray Generation Simulation from Electron Irradiation on Tungsten](https://drive.google.com/file/d/1nEiFpYSwptF2RWQgoYWAkO6UT2t87ZfX/view?usp=sharing)**  
-
-- **Objective**:  
-  Simulate the X-ray spectrum generated when a tungsten sample is irradiated with electrons, in order to analyze the characteristics of the X-rays produced.
-
-- **Achievements**:  
-  Successfully used GEANT4 to simulate electron irradiation and observed the X-ray spectrum. Results were analyzed using ROOT, providing insights into X-ray production in a tungsten sample.
-
-- **Tools Used**:  
-  GEANT4, ROOT, C++.
 
 ---
 
