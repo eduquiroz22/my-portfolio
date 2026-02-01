@@ -1,6 +1,6 @@
 # My Portfolio
 
-Hello! I’m Eduardo Quiroz, a physics student at "Universidad Mayor de San Simón" from Cochabamba, Bolivia. Here are some of the projects I've worked on during my studies:
+Hello! I’m Eduardo Quiroz, a Astrophysics master student at "IRyA" from Morelia, México. Here are some of the projects I've worked on during my studies:
 
 ## Projects
 
